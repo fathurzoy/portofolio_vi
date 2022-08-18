@@ -1,0 +1,25 @@
+/* ===== FOOTER =====*/
+.footer {
+  background-color: var(--second-color);
+  color: black;
+  text-align: center;
+  font-weight: var(--font-semi);
+  padding: 2rem 0;
+}
+.footer a {
+  color: black;
+}
+
+.footer__title {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: var(--mb-4);
+}
+.footer__social {
+  margin-bottom: var(--mb-4);
+}
+.footer__icon {
+  font-size: 1.5rem;
+  color: #fff;
+  margin: 0 var(--mb-2);
+}
