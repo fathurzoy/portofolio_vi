@@ -9,7 +9,7 @@ const About = () => {
 
         <div className="about__container bd-grid">
           <div className="about__img">
-            <img src="assets/img/profil.jpg" alt="" />
+            <img src="assets/img/foto.jpg" alt="" />
           </div>
 
           <div>

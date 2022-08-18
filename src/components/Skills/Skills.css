@@ -27,6 +27,7 @@
 }
 .skills__names {
   display: flex;
+  color: black !important;
   align-items: center;
 }
 .skills__bar {

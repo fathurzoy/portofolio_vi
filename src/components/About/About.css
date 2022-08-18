@@ -13,6 +13,9 @@
   width: 300px;
   border-radius: 0.5rem;
 }
+.about__text {
+  color: black !important;
+}
 
 @media screen and (min-width: 768px) {
   .about__container {
